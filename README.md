@@ -1,3 +1,5 @@
+![Imagem](https://github.com/FelpsMartini/analise-demissoes/blob/main/imagens/%23%201%20Capa.jpg)
+
 # **Análise da Rotatividade de Funcionários**
 
 ## Sumário
